@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="2026-07-19_13 49 39" src="https://github.com/user-attachments/assets/954f7953-276c-49d2-a20e-d7034b1aa2df" />
 
 
 ## Call Of Cthulhu Into the abyss 🐙
@@ -14,11 +15,8 @@ The modpack has been in development for three months with the goal of creating a
 
 I created three mods with a bunch of new mechanics, only me has created these unique mechanics in minecraft
 
-  <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/6a53e68f-63cf-4ccb-bf3d-ba04823dba27" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/6a53e68f-63cf-4ccb-bf3d-ba04823dba27" />
 
-
-
-
-
+<img width="1000" height="1080" alt="2026-07-19_13 49 39" src="https://github.com/user-attachments/assets/9dfbd618-4e71-4e36-94a4-b66e80bdde4b" /> 
 
 
