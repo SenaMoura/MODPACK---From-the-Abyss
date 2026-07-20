@@ -63,6 +63,16 @@ I created three mods with a bunch of new mechanics, only me has created these un
 
 
 
+
+## FUTURE IDEAS 🧠
+- [ ] Finish the modpack bosses
+- [ ] Create custom weapons
+- [ ] Finish the questline
+- [ ] Create custom blocks
+- [ ] Custom Dimension
+- [ ] New Biomes and structures
+- [ ] Use stacks to optmize the modpack
+
 © SenaMoura. All rights reserved.
 
 
