@@ -1,4 +1,4 @@
-# MODPACK---From-the-Abyss
+<img width="1091" height="908" alt="image" src="https://github.com/user-attachments/assets/fdae6ba3-54d3-40cd-b9d6-7295a8c21509" /># MODPACK---From-the-Abyss
 
 ## Call Of Cthulhu Into the abyss 🐙
 
@@ -13,6 +13,9 @@ The modpack has been in development for three months with the goal of creating a
 3 - [Skill Tree](https://github.com/SenaMoura/MODPACK---From-the-Abyss/blob/main/intotheabyssskills-0.4.0.jar)
 
 I created three mods with a bunch of new mechanics, only me has created these unique mechanics in minecraft
+
+  <img width="1091" height="908" alt="image" src="https://github.com/user-attachments/assets/db05f184-3e34-4def-bfcf-078369d9e292" />
+
 
 
 
