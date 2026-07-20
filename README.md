@@ -14,7 +14,7 @@ The modpack has been in development for three months with the goal of creating a
 
 I created three mods with a bunch of new mechanics, only me has created these unique mechanics in minecraft
 
-  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6a53e68f-63cf-4ccb-bf3d-ba04823dba27" />
+  <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/6a53e68f-63cf-4ccb-bf3d-ba04823dba27" />
 
 
 
