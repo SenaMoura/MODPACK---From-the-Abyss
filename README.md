@@ -40,7 +40,9 @@ I created three mods with a bunch of new mechanics, only me has created these un
 
 <img width="1920" height="1080" alt="2026-07-19_13 43 38" src="https://github.com/user-attachments/assets/1ce65b4c-4c4e-40e0-b528-20131f808cc9" />
 
-All of those images were captured in game, showing the new inventory system, biomes and structures:
+<p align="center">  
+  All of those images were captured in game, showing the new inventory system, biomes and structures:
+</p>
 
 ## Requirements 🖥️
 
