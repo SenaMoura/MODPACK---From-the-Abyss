@@ -58,6 +58,10 @@ I created three mods with a bunch of new mechanics, only me has created these un
 |- **Loader:** [Forge]                |
 
 
+## If you want to play this modpack, follow me on curseforge to receive future updates and logs about the project:
+   [⛏️🔥Curseforge](https://www.curseforge.com/members/domguy/projects)
+
+
 
 
 
