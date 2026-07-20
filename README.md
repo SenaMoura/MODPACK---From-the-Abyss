@@ -17,6 +17,9 @@ The modpack has been in development for three months with the goal of creating a
 I created three mods with a bunch of new mechanics, only me has created these unique mechanics in minecraft
 
 ## Photos📸
+
+
+   ## All OF THOSE IMAGES WERE CAPTURED IN GAME
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/6a53e68f-63cf-4ccb-bf3d-ba04823dba27" />
 
 
@@ -42,22 +45,18 @@ I created three mods with a bunch of new mechanics, only me has created these un
 
 
 
-<p align="center">  
-   All OF THOSE IMAGES WERE CAPTURED IN GAME
-</p>
-
-<p align="center">  
-   ## Requirements 🖥️
-</p>
 
 
-<p align="center">
+
+## Requirements 🖥️
+
+
 | RECOMMEND RAM|  |
 |---|---|
 | - **Recommend RAM :**  6 GB a 8 GB |
 |- **Minecraft Version:** [1.20.1]   |
 |- **Loader:** [Forge]                |
-</p>
+
 
 
 
