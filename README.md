@@ -46,14 +46,18 @@ I created three mods with a bunch of new mechanics, only me has created these un
    All OF THOSE IMAGES WERE CAPTURED IN GAME
 </p>
 
-## Requirements 🖥️
+<p align="center">  
+   ## Requirements 🖥️
+</p>
 
+
+<p align="center">
 | RECOMMEND RAM|  |
 |---|---|
 | - **Recommend RAM :**  6 GB a 8 GB |
 |- **Minecraft Version:** [1.20.1]   |
 |- **Loader:** [Forge]                |
-
+</p>
 
 
 
